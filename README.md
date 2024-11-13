@@ -43,7 +43,7 @@ This project reconstructs a 3D building structure from two images (Wadham Colleg
 
 3.   The rotation and translation, R and t:
 <p align='center'>
-  <img width="400px" src="https://github.com/ncquy/3d_reconstruction/blob/main/results/rotation_translation.png" />
+  <img width="300px" src="https://github.com/ncquy/3d_reconstruction/blob/main/results/rotation_translation.png" />
   <br/>
   <i> The rotation and translation, R and t.</i>
 </p>
